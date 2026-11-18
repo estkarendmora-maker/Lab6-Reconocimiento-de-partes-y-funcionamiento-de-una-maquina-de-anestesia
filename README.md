@@ -347,6 +347,144 @@ El sistema de presión negativa de la máquina de anestesia WATO EX-20 se utiliz
 - Válvula de protección contra sobrellenado: evita que los líquidos lleguen al generador de vacío y ocasionen daños.  
 - Filtro: ayuda a evitar la contaminación bacteriana del sistema. [11]  
 
+## Parte C
+
+  ### 1. DESARROLLO DEL PROCEDIMIENTO
+Durante la práctica de reconocimiento de partes y funcionamiento de la máquina de anestesia Mindray WATO EX-20, se realizó una inspección general del equipo con el propósito de identificar sus principales componentes, comprender la función de cada subsistema y reconocer los principios de funcionamiento relacionados con la administración de gases y la ventilación mecánica.
+
+El procedimiento desarrollado fue el siguiente:
+### Paso 1. Reconocimiento general del equipo.
+
+Se realizó una inspección visual de la máquina de anestesia Mindray WATO EX-20, identificando su estructura externa, pantalla de visualización, panel de control, conexiones para gases medicinales, soporte de vaporizadores y sistema respiratorio.
+
+### Paso 2. Identificación del sistema de suministro de gases.
+
+Se reconocieron las conexiones correspondientes al oxígeno, óxido nitroso y aire medicinal. Se explicó cómo estos gases ingresan al equipo desde las redes centrales o los cilindros de reserva y cómo sus presiones son reguladas antes de pasar al sistema de control de flujo.
+
+### Paso 3. Reconocimiento de los vaporizadores.
+
+Se identificó la ubicación de los vaporizadores y se explicó su función en la transformación del anestésico líquido en vapor. También se reconoció su importancia en el control de la concentración del agente anestésico que se incorpora a la mezcla de gases frescos.
+
+### Paso 4. Identificación del sistema respiratorio.
+
+Se inspeccionaron los componentes del circuito respiratorio, reconociendo las ramas inspiratoria y espiratoria, las válvulas unidireccionales, la bolsa reservorio, el recipiente absorbente de CO₂ y la válvula APL. Se explicó cómo estos elementos permiten conducir los gases hacia el paciente y facilitar el retorno de los gases espirados.
+
+### Paso 5. Reconocimiento del sistema de ventilación mecánica.
+
+Se identificó el fuelle ubicado en el compartimento respiratorio y se explicó su función durante la ventilación mecánica. Además, se revisaron conceptualmente los modos de ventilación disponibles, como ventilación controlada por volumen (VCV), ventilación controlada por presión (PCV), ventilación manual y VISO.
+
+### Paso 6. Identificación de los sistemas de monitorización y alarma.
+
+Se reconocieron los parámetros que pueden visualizarse en la pantalla, como la frecuencia respiratoria, el volumen corriente, la presión de la vía aérea, la concentración de oxígeno y el CO₂ al final de la espiración. Se explicó la importancia de las alarmas para advertir sobre condiciones anormales durante el funcionamiento.
+
+### Paso 7. Reconocimiento de los sistemas de seguridad.
+
+Se estudiaron las funciones de la batería interna, los sistemas de regulación de presión, las alarmas y los mecanismos de protección del circuito respiratorio. Se explicó la importancia de verificar las condiciones de alimentación eléctrica y suministro de gases antes de utilizar el equipo.
+
+### Paso 8. Análisis del funcionamiento general.
+
+Finalmente, se relacionaron los diferentes subsistemas para comprender cómo trabajan conjuntamente durante un procedimiento anestésico. Se identificó que el suministro de gases, la vaporización, la ventilación y la absorción de CO₂ son procesos fundamentales para garantizar el funcionamiento adecuado de la máquina.
+
+La práctica se desarrolló mediante reconocimiento visual y explicación de los componentes, sin realizar intervenciones sobre un paciente.
+# 13. ANÁLISIS DE RESULTADOS
+## 13.1. Análisis 1. Fallas que pueden presentarse en los subsistemas de la máquina de anestesia y sus posibles causas.
+La máquina de anestesia Mindray WATO EX-20 está compuesta por diferentes subsistemas que trabajan de manera coordinada para garantizar el suministro de gases medicinales, la administración de agentes anestésicos y la ventilación del paciente. Sin embargo, durante su funcionamiento pueden presentarse fallas mecánicas, neumáticas, eléctricas y electrónicas que afectan su desempeño y seguridad.
+
+De acuerdo con el manual de servicio del fabricante, las principales fallas que pueden presentarse son las siguientes [11]:
+# 1. Sistema de suministro de gases
+- Fugas de gases: pueden producirse por daños en las mangueras, conexiones flojas o empaques deteriorados.
+- Presión insuficiente de oxígeno: puede deberse a una baja presión en la red central, cilindros con poca reserva o fallas en los reguladores.
+- Falla en el suministro del gas impulsor: puede estar relacionada con problemas en las conexiones, reguladores o sensores de presión.
+Estas fallas pueden ocasionar un suministro inadecuado de gases y afectar el funcionamiento del ventilador.
+
+# 2. Sistema de control y administración de gases
+- Fugas en los flujómetros: pueden presentarse por deterioro de los sellos o daños en las conexiones internas.
+- Falla en el botón de oxígeno rápido (O₂ Flush): puede producirse por desgaste o deterioro de sus elementos de sellado.
+- Falla en la válvula de corte O₂-N₂O: puede impedir la regulación adecuada de la mezcla de gases.
+- Fugas en el sistema de baja presión: pueden originarse por empaques deteriorados, conexiones defectuosas o daños en las tuberías.
+Estas condiciones pueden alterar la concentración y el flujo de gases que se administran al paciente.
+
+# 3. Sistema de vaporización
+- Fugas en el conjunto del vaporizador: pueden producirse por empaques dañados, sellos deteriorados o una instalación incorrecta.
+- Problemas en el acoplamiento: pueden impedir una conexión adecuada entre el vaporizador y su soporte.
+- Dosificación inadecuada del agente anestésico: puede relacionarse con fallas de calibración o problemas internos del vaporizador.
+Estas fallas pueden ocasionar una administración incorrecta del anestésico inhalatorio.
+
+# 4. Sistema de ventilación mecánica
+- Falla de los sensores de flujo: puede producir mediciones incorrectas del volumen corriente.
+- Falla de los sensores de presión: puede generar errores en la medición de la presión de la vía aérea.
+- Problemas en las válvulas inspiratoria, espiratoria o PEEP: pueden alterar el control del flujo y de las presiones respiratorias.
+- Presión insuficiente durante la inspiración: puede presentarse por fugas, suministro insuficiente de gas impulsor o fallas en los componentes de control.
+- Falla de comunicación del ventilador: puede relacionarse con problemas en los cables o tarjetas electrónicas.
+Estas alteraciones pueden comprometer la ventilación adecuada del paciente.
+
+# 5. Sistema respiratorio y absorción de CO₂
+- Fugas en el circuito respiratorio: pueden producirse por tubos deteriorados, conexiones incorrectas o sellos defectuosos.
+- Problemas en el fuelle: pueden deberse a una instalación incorrecta o al deterioro de su sistema de sellado.
+- Fallas en la válvula APL: pueden impedir la regulación adecuada de la presión durante la ventilación manual.
+- Instalación incorrecta del recipiente absorbente: puede ocasionar fugas en el circuito.
+- Agotamiento del absorbente de CO₂: puede permitir la reinhalación de dióxido de carbono por parte del paciente.
+Estas fallas pueden afectar la circulación de los gases y la eliminación del CO₂.
+
+# 6. Sistema de monitorización y componentes electrónicos
+- Falla del sensor de oxígeno: puede producir mediciones incorrectas de la concentración de O₂ debido a una calibración inadecuada, humedad o deterioro del sensor.
+- Falla de los sensores de flujo y presión: puede generar valores incorrectos en los parámetros de monitorización.
+- Fallas de comunicación entre tarjetas electrónicas: pueden ocasionar errores en la visualización y control de las funciones del equipo.
+- Falla de la batería: puede impedir la autonomía del equipo durante una interrupción del suministro eléctrico.
+- Falla de la pantalla o del panel de control: puede dificultar la configuración y visualización de los parámetros.
+En general, las fallas identificadas pueden relacionarse con el desgaste de los componentes, el uso continuo del equipo, la falta de mantenimiento preventivo, las conexiones incorrectas, la contaminación por humedad y la ausencia de pruebas de funcionamiento antes de su utilización. [11], [12].
+## 13.2. Análisis 2. Clasificación de los subsistemas según el número de fallas asociadas
+A partir de la revisión del capítulo de solución de problemas del manual de servicio de la Mindray WATO EX-20, se realizó una clasificación de los subsistemas considerando la cantidad y variedad de fallas descritas para sus componentes.
+
+Es importante aclarar que el fabricante no presenta una estadística de frecuencia real de fallas por subsistema. Por esta razón, el siguiente orden corresponde a una clasificación cualitativa de las fallas documentadas, agrupadas según el subsistema al que pertenecen, y no a una tasa estadística de ocurrencia.
+
+<img width="748" height="377" alt="image" src="https://github.com/user-attachments/assets/66e0d88c-92b2-480e-a37f-fc8d605f5bce" />
+
+De acuerdo con esta clasificación, el sistema de ventilación mecánica y el sistema respiratorio agrupan una mayor variedad de fallas, debido a que están conformados por diferentes componentes neumáticos, sensores, válvulas y elementos de medición que deben funcionar coordinadamente.
+
+Por otra parte, las fugas en el suministro y la administración de gases representan condiciones importantes porque pueden alterar la composición y el flujo de la mezcla respiratoria. Asimismo, las fallas en los sistemas electrónicos y de monitorización pueden dificultar la identificación de parámetros incorrectos durante la operación.
+
+Finalmente, aunque el sistema de vaporización presenta una menor variedad de fallas dentro de esta agrupación, su correcto funcionamiento es indispensable para garantizar una administración controlada de los agentes anestésicos. [11].
+
+# 15. PREGUNTAS PARA LA DISCUSIÓN
+# Pregunta 1. ¿Qué tipos de anestésicos son los más usados en cirugía?
+
+Los anestésicos más utilizados durante los procedimientos quirúrgicos se clasifican principalmente en anestésicos inhalatorios e intravenosos. La selección depende del procedimiento, las condiciones clínicas del paciente y el tipo de anestesia que se requiere.
+
+## 1. Anestésicos inhalatorios
+
+Son administrados mediante la vía respiratoria y se utilizan principalmente para mantener la anestesia general.
+
+Entre los más utilizados se encuentran:
+- Sevoflurano: es un anestésico volátil utilizado para la inducción y el mantenimiento de la anestesia general. Se caracteriza por su rápida acción y recuperación.
+- Isoflurano: se utiliza principalmente para el mantenimiento de la anestesia general durante procedimientos quirúrgicos.
+- Desflurano: es un anestésico volátil que permite controlar rápidamente la profundidad anestésica.
+- Óxido nitroso: posee propiedades analgésicas y se utiliza como complemento de otros agentes anestésicos.
+## 2. Anestésicos intravenosos
+
+Se administran directamente en el torrente sanguíneo y se utilizan principalmente para inducir la anestesia general o proporcionar sedación.
+
+Entre ellos se encuentran:
+- Propofol: es uno de los anestésicos intravenosos más utilizados para inducir y mantener la anestesia general.
+- Ketamina: produce anestesia disociativa y tiene propiedades analgésicas.
+- Etomidato: se utiliza principalmente para la inducción anestésica, especialmente cuando se busca mantener una mayor estabilidad cardiovascular.
+- Tiopental: es un anestésico intravenoso utilizado para la inducción de la anestesia general.
+
+También se utilizan medicamentos complementarios, como los opioides (fentanilo y remifentanilo), que ayudan a controlar el dolor, y los relajantes neuromusculares, como el rocuronio, que facilitan determinadas intervenciones quirúrgicas.
+
+# Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+La Mindray WATO EX-35 es una estación de anestesia que incorpora características adicionales respecto al modelo WATO EX-20, principalmente en la interfaz de usuario, los modos de ventilación, la monitorización y las funciones de seguridad.
+
+Las principales diferencias son:
+
+<img width="758" height="537" alt="image" src="https://github.com/user-attachments/assets/8ada67f2-9272-4494-a4f6-7b58cd2a8934" />
+
+El modelo EX-35 también incorpora funciones como la identificación automática de agentes anestésicos mediante módulos compatibles y el cambio automático del gas impulsor, lo que mejora la continuidad del soporte ventilatorio.
+
+Por otra parte, ambos equipos permiten administrar gases medicinales, utilizar vaporizadores y proporcionar ventilación mecánica durante procedimientos de anestesia general.
+# 14. CONCLUSION
+
+La práctica de reconocimiento de partes y funcionamiento de la máquina de anestesia Mindray WATO EX-20 permitió identificar sus principales subsistemas y comprender su importancia en la administración de anestesia y ventilación mecánica. Se evidenció que el funcionamiento adecuado del equipo depende de la integración de los sistemas de suministro de gases, control de flujo, vaporización, ventilación, absorción de CO₂ y monitorización, ya que cualquier alteración puede comprometer la seguridad del paciente. Asimismo, se identificó que las fallas más comunes pueden estar relacionadas con el desgaste de empaques y conexiones, fugas en los circuitos, obstrucciones, problemas de calibración de sensores, fallas eléctricas y mantenimiento inadecuado. Por esta razón, es fundamental realizar inspecciones periódicas, pruebas de fugas, verificaciones de los sistemas de alarma y mantenimiento preventivo. Finalmente, la práctica permitió reconocer la importancia del ingeniero biomédico en la inspección, mantenimiento y verificación de estos equipos, contribuyendo a garantizar su confiabilidad y seguridad dentro del entorno hospitalario.
 
 # 4. BIBLIOGRAFÍA
 
