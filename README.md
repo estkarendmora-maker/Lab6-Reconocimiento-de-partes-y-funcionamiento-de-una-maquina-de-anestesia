@@ -484,7 +484,7 @@ Por otra parte, ambos equipos permiten administrar gases medicinales, utilizar v
 
 La práctica de reconocimiento de partes y funcionamiento de la máquina de anestesia Mindray WATO EX-20 permitió identificar sus principales subsistemas y comprender su importancia en la administración de anestesia y ventilación mecánica. Se evidenció que el funcionamiento adecuado del equipo depende de la integración de los sistemas de suministro de gases, control de flujo, vaporización, ventilación, absorción de CO₂ y monitorización, ya que cualquier alteración puede comprometer la seguridad del paciente. Asimismo, se identificó que las fallas más comunes pueden estar relacionadas con el desgaste de empaques y conexiones, fugas en los circuitos, obstrucciones, problemas de calibración de sensores, fallas eléctricas y mantenimiento inadecuado. Por esta razón, es fundamental realizar inspecciones periódicas, pruebas de fugas, verificaciones de los sistemas de alarma y mantenimiento preventivo. Finalmente, la práctica permitió reconocer la importancia del ingeniero biomédico en la inspección, mantenimiento y verificación de estos equipos, contribuyendo a garantizar su confiabilidad y seguridad dentro del entorno hospitalario.
 
-## 4. BIBLIOGRAFÍA
+### 4. BIBLIOGRAFÍA
 
 [1] National Institute of General Medical Sciences (NIGMS). (2026). *Anesthesia*. National Institutes of Health.  
 https://www.nigms.nih.gov/education/Pages/Anesthesia
