@@ -251,8 +251,6 @@ Por lo tanto, la pausa inspiratoria se configura en el modo de ventilación cont
 
 ---
 
-
-
 ## Parte B
 ### 1. Identifique y ubique las siguientes partes de la máquina de anestesia WATOEX-20, explicando su función.
 a. Vaporizador
@@ -386,8 +384,8 @@ Se estudiaron las funciones de la batería interna, los sistemas de regulación 
 Finalmente, se relacionaron los diferentes subsistemas para comprender cómo trabajan conjuntamente durante un procedimiento anestésico. Se identificó que el suministro de gases, la vaporización, la ventilación y la absorción de CO₂ son procesos fundamentales para garantizar el funcionamiento adecuado de la máquina.
 
 La práctica se desarrolló mediante reconocimiento visual y explicación de los componentes, sin realizar intervenciones sobre un paciente.
-# 13. ANÁLISIS DE RESULTADOS
-## 13.1. Análisis 1. Fallas que pueden presentarse en los subsistemas de la máquina de anestesia y sus posibles causas.
+## 13. ANÁLISIS DE RESULTADOS
+### 13.1. Análisis 1. Fallas que pueden presentarse en los subsistemas de la máquina de anestesia y sus posibles causas.
 La máquina de anestesia Mindray WATO EX-20 está compuesta por diferentes subsistemas que trabajan de manera coordinada para garantizar el suministro de gases medicinales, la administración de agentes anestésicos y la ventilación del paciente. Sin embargo, durante su funcionamiento pueden presentarse fallas mecánicas, neumáticas, eléctricas y electrónicas que afectan su desempeño y seguridad.
 
 De acuerdo con el manual de servicio del fabricante, las principales fallas que pueden presentarse son las siguientes [11]:
