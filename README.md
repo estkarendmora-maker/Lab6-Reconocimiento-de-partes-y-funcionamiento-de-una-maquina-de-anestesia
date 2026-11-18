@@ -1,3 +1,10 @@
+# lab6_instrumentacion
+### Integrantes
+Lina María Cortes Almonacid
+
+Karen Dayanna Mora Segura
+
+Sofia Alejandra Cardona Cruz
 # Reconocimiento de partes y funcionamiento de una máquina de anestesia
 
 # 1. INTRODUCCIÓN
