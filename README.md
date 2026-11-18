@@ -431,7 +431,7 @@ Estas fallas pueden afectar la circulación de los gases y la eliminación del C
 - Falla de la batería: puede impedir la autonomía del equipo durante una interrupción del suministro eléctrico.
 - Falla de la pantalla o del panel de control: puede dificultar la configuración y visualización de los parámetros.
 En general, las fallas identificadas pueden relacionarse con el desgaste de los componentes, el uso continuo del equipo, la falta de mantenimiento preventivo, las conexiones incorrectas, la contaminación por humedad y la ausencia de pruebas de funcionamiento antes de su utilización. [11], [12].
-## 13.2. Análisis 2. Clasificación de los subsistemas según el número de fallas asociadas
+### 13.2. Análisis 2. Clasificación de los subsistemas según el número de fallas asociadas
 A partir de la revisión del capítulo de solución de problemas del manual de servicio de la Mindray WATO EX-20, se realizó una clasificación de los subsistemas considerando la cantidad y variedad de fallas descritas para sus componentes.
 
 Es importante aclarar que el fabricante no presenta una estadística de frecuencia real de fallas por subsistema. Por esta razón, el siguiente orden corresponde a una clasificación cualitativa de las fallas documentadas, agrupadas según el subsistema al que pertenecen, y no a una tasa estadística de ocurrencia.
@@ -444,12 +444,12 @@ Por otra parte, las fugas en el suministro y la administración de gases represe
 
 Finalmente, aunque el sistema de vaporización presenta una menor variedad de fallas dentro de esta agrupación, su correcto funcionamiento es indispensable para garantizar una administración controlada de los agentes anestésicos. [11].
 
-# 15. PREGUNTAS PARA LA DISCUSIÓN
-# Pregunta 1. ¿Qué tipos de anestésicos son los más usados en cirugía?
+### 15. PREGUNTAS PARA LA DISCUSIÓN
+## Pregunta 1. ¿Qué tipos de anestésicos son los más usados en cirugía?
 
 Los anestésicos más utilizados durante los procedimientos quirúrgicos se clasifican principalmente en anestésicos inhalatorios e intravenosos. La selección depende del procedimiento, las condiciones clínicas del paciente y el tipo de anestesia que se requiere.
 
-## 1. Anestésicos inhalatorios
+### 1. Anestésicos inhalatorios
 
 Son administrados mediante la vía respiratoria y se utilizan principalmente para mantener la anestesia general.
 
@@ -458,7 +458,7 @@ Entre los más utilizados se encuentran:
 - Isoflurano: se utiliza principalmente para el mantenimiento de la anestesia general durante procedimientos quirúrgicos.
 - Desflurano: es un anestésico volátil que permite controlar rápidamente la profundidad anestésica.
 - Óxido nitroso: posee propiedades analgésicas y se utiliza como complemento de otros agentes anestésicos.
-## 2. Anestésicos intravenosos
+### 2. Anestésicos intravenosos
 
 Se administran directamente en el torrente sanguíneo y se utilizan principalmente para inducir la anestesia general o proporcionar sedación.
 
@@ -470,7 +470,7 @@ Entre ellos se encuentran:
 
 También se utilizan medicamentos complementarios, como los opioides (fentanilo y remifentanilo), que ayudan a controlar el dolor, y los relajantes neuromusculares, como el rocuronio, que facilitan determinadas intervenciones quirúrgicas.
 
-# Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+## Pregunta 2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
 La Mindray WATO EX-35 es una estación de anestesia que incorpora características adicionales respecto al modelo WATO EX-20, principalmente en la interfaz de usuario, los modos de ventilación, la monitorización y las funciones de seguridad.
 
 Las principales diferencias son:
@@ -480,7 +480,7 @@ Las principales diferencias son:
 El modelo EX-35 también incorpora funciones como la identificación automática de agentes anestésicos mediante módulos compatibles y el cambio automático del gas impulsor, lo que mejora la continuidad del soporte ventilatorio.
 
 Por otra parte, ambos equipos permiten administrar gases medicinales, utilizar vaporizadores y proporcionar ventilación mecánica durante procedimientos de anestesia general.
-# 14. CONCLUSION
+### 14. CONCLUSION
 
 La práctica de reconocimiento de partes y funcionamiento de la máquina de anestesia Mindray WATO EX-20 permitió identificar sus principales subsistemas y comprender su importancia en la administración de anestesia y ventilación mecánica. Se evidenció que el funcionamiento adecuado del equipo depende de la integración de los sistemas de suministro de gases, control de flujo, vaporización, ventilación, absorción de CO₂ y monitorización, ya que cualquier alteración puede comprometer la seguridad del paciente. Asimismo, se identificó que las fallas más comunes pueden estar relacionadas con el desgaste de empaques y conexiones, fugas en los circuitos, obstrucciones, problemas de calibración de sensores, fallas eléctricas y mantenimiento inadecuado. Por esta razón, es fundamental realizar inspecciones periódicas, pruebas de fugas, verificaciones de los sistemas de alarma y mantenimiento preventivo. Finalmente, la práctica permitió reconocer la importancia del ingeniero biomédico en la inspección, mantenimiento y verificación de estos equipos, contribuyendo a garantizar su confiabilidad y seguridad dentro del entorno hospitalario.
 
