@@ -391,26 +391,26 @@ La práctica se desarrolló mediante reconocimiento visual y explicación de los
 La máquina de anestesia Mindray WATO EX-20 está compuesta por diferentes subsistemas que trabajan de manera coordinada para garantizar el suministro de gases medicinales, la administración de agentes anestésicos y la ventilación del paciente. Sin embargo, durante su funcionamiento pueden presentarse fallas mecánicas, neumáticas, eléctricas y electrónicas que afectan su desempeño y seguridad.
 
 De acuerdo con el manual de servicio del fabricante, las principales fallas que pueden presentarse son las siguientes [11]:
-# 1. Sistema de suministro de gases
+### 1. Sistema de suministro de gases
 - Fugas de gases: pueden producirse por daños en las mangueras, conexiones flojas o empaques deteriorados.
 - Presión insuficiente de oxígeno: puede deberse a una baja presión en la red central, cilindros con poca reserva o fallas en los reguladores.
 - Falla en el suministro del gas impulsor: puede estar relacionada con problemas en las conexiones, reguladores o sensores de presión.
 Estas fallas pueden ocasionar un suministro inadecuado de gases y afectar el funcionamiento del ventilador.
 
-# 2. Sistema de control y administración de gases
+### 2. Sistema de control y administración de gases
 - Fugas en los flujómetros: pueden presentarse por deterioro de los sellos o daños en las conexiones internas.
 - Falla en el botón de oxígeno rápido (O₂ Flush): puede producirse por desgaste o deterioro de sus elementos de sellado.
 - Falla en la válvula de corte O₂-N₂O: puede impedir la regulación adecuada de la mezcla de gases.
 - Fugas en el sistema de baja presión: pueden originarse por empaques deteriorados, conexiones defectuosas o daños en las tuberías.
 Estas condiciones pueden alterar la concentración y el flujo de gases que se administran al paciente.
 
-# 3. Sistema de vaporización
+### 3. Sistema de vaporización
 - Fugas en el conjunto del vaporizador: pueden producirse por empaques dañados, sellos deteriorados o una instalación incorrecta.
 - Problemas en el acoplamiento: pueden impedir una conexión adecuada entre el vaporizador y su soporte.
 - Dosificación inadecuada del agente anestésico: puede relacionarse con fallas de calibración o problemas internos del vaporizador.
 Estas fallas pueden ocasionar una administración incorrecta del anestésico inhalatorio.
 
-# 4. Sistema de ventilación mecánica
+### 4. Sistema de ventilación mecánica
 - Falla de los sensores de flujo: puede producir mediciones incorrectas del volumen corriente.
 - Falla de los sensores de presión: puede generar errores en la medición de la presión de la vía aérea.
 - Problemas en las válvulas inspiratoria, espiratoria o PEEP: pueden alterar el control del flujo y de las presiones respiratorias.
@@ -418,7 +418,7 @@ Estas fallas pueden ocasionar una administración incorrecta del anestésico inh
 - Falla de comunicación del ventilador: puede relacionarse con problemas en los cables o tarjetas electrónicas.
 Estas alteraciones pueden comprometer la ventilación adecuada del paciente.
 
-# 5. Sistema respiratorio y absorción de CO₂
+### 5. Sistema respiratorio y absorción de CO₂
 - Fugas en el circuito respiratorio: pueden producirse por tubos deteriorados, conexiones incorrectas o sellos defectuosos.
 - Problemas en el fuelle: pueden deberse a una instalación incorrecta o al deterioro de su sistema de sellado.
 - Fallas en la válvula APL: pueden impedir la regulación adecuada de la presión durante la ventilación manual.
@@ -426,7 +426,7 @@ Estas alteraciones pueden comprometer la ventilación adecuada del paciente.
 - Agotamiento del absorbente de CO₂: puede permitir la reinhalación de dióxido de carbono por parte del paciente.
 Estas fallas pueden afectar la circulación de los gases y la eliminación del CO₂.
 
-# 6. Sistema de monitorización y componentes electrónicos
+### 6. Sistema de monitorización y componentes electrónicos
 - Falla del sensor de oxígeno: puede producir mediciones incorrectas de la concentración de O₂ debido a una calibración inadecuada, humedad o deterioro del sensor.
 - Falla de los sensores de flujo y presión: puede generar valores incorrectos en los parámetros de monitorización.
 - Fallas de comunicación entre tarjetas electrónicas: pueden ocasionar errores en la visualización y control de las funciones del equipo.
